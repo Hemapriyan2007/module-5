@@ -1,5 +1,5 @@
-# Name: K.Preetha
-# Register Number: 212224100044
+# Name: HEMAPRIYAN.P
+# Register Number: 212224040116
 
 # EX-26-AREA-OF-RECTANGLE-USING- POINTER
 ## AIM
